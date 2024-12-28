@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "234324",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "R15 V3",
+        "type": "Bike",
+        "price": "7000",
+        "image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2020\/08\/yamaha-r15-dark-knight.jpg"
+    },
+    {
+        "name": "car",
+        "type": "yello",
+        "price": "098888",
+        "image": "https:\/\/images.rawpixel.com\/image_png_social_landscape\/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L2Rlc2lnbndpdGhtZTA5XzNkX2lsbHVzdHJhdGlvbl9vZl9hX3Nwb3J0X2Nhcl9mdWxsX2JvZHlfY2FydG9vbl8yYTUyMzllMC0zY2E2LTRhY2MtOTkwZi1kZjQ1NmE3NWI4YmYucG5n.png"
+    }
+]
